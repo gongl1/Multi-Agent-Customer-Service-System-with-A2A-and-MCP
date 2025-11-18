@@ -53,6 +53,6 @@ It includes:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/multi-agent-customer-service-system.git
-cd multi-agent-customer-service-system
+git clone https://github.com/gongl1/Multi-Agent-Customer-Service-System-with-A2A-and-MCP.git
+cd Multi-Agent-Customer-Service-System-with-A2A-and-MCP
 pip install -r requirements.txt
